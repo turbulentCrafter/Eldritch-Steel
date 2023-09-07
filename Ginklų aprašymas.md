@@ -1,4 +1,4 @@
-mKumščiai, plika ranka, artima distancija
+Kumščiai, plika ranka, artima distancija
 Nagai, panašiai kaip pas Nepetą arba Ernį iš xmenų, artima distancija
 Kirvis, pasiekia toliau už kumščius, daro daugiau žalos, bet lėtesnis
 Kardas, greitesnis už kirvį, mažiau žalos, pasiekia toliau
